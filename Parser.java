@@ -1,10 +1,3 @@
-/*
-Name:-                              ID:-
-Mostafa Saeed Abd El hameed         20201166
-Youssef Moustafa Ahmed              20200673
-Mohamed magdy yassin                20200839
-Mohamed Mashhoot Mohamed            20190478
-*/
 package cli;
 
 public class Parser {
